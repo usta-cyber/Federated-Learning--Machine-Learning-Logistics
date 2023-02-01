@@ -3,10 +3,11 @@ Implementation of Federated machine Learning on localhost by applying logistics 
 
 ## Requirments
   
-  -install python 3.10
+  install python 3.10
   -install flwr Library using "pip install flwr"
   -install numpy Library using "pip install numpy"
   -install numpy Library using "pip install scikit-learn"
+
 ##How to Execute the file
   
   -open CMD as Administrator 
